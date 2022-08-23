@@ -1,6 +1,6 @@
 <h1>Booki</h1>
 
-Voir le projet : Booki (https://youke0.github.io/LivrableOC2/livrableOC2/Indexfinal.html)
+Voir le projet : Booki (https://youke0.github.io/LivrableOC2/livrableOC2/Index.html)
 
 Booki est une entreprise qui propose un outil de planification de vacances.
 Leur site permet aux utilisateurs de rechercher des hébergements et des activités dans la ville de leur choix.
